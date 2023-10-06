@@ -1,3 +1,4 @@
+import "./App.css";
 import { useState } from "react";
 import { InputForm } from './components/InputForm';
 import { Title } from './components/Title';
